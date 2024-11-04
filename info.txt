@@ -1,0 +1,23 @@
+
+version controlling
+4.21.1
+3rd part (last part) - Minor Fixes (optional)
+Latest -> 4.21.1
+
+2nd part - Recommended Bug fix (Security Fix)
+
+1 part Major Release =Major / Breaking update 
+BE Aware
+npm i express@4.17.2
+
+^carte symbol lock the major version 
+install updates form 4.18.1 > && < 5.0.0
+
+install all(Recommended and minor fixes Auto) updates not major
+
+~sequially line 4.18 fix 
+~4.18.1 
+~4.18.2 
+~4.18.3 
+~4.18.4 
+~4.19.1 -->No
